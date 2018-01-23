@@ -1,0 +1,8 @@
+type = theme
+name = civi_seven
+description = A sub-theme of Seven optimized for viewing CiviCRM content, based on civi_bartik.
+backdrop = 1.x
+version = BACKDROP_VERSION
+base theme = seven
+
+stylesheets[all][] = css/style.css
