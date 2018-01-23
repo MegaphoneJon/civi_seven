@@ -7,7 +7,6 @@
 	-ms-flex: 0 0 20%;
 	flex: 0 0 20%;
 	max-width: 20%;
-  z-index: -1;
 }
 .col-md-pull-9 {
 	right: 80%;
