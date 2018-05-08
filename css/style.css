@@ -24,6 +24,10 @@
 	flex: 0 0 80%;
 	max-width: 80%;
 }
+/* Don't let the "Recent Items"/left sidebar overflow the main content */
+.l-sidebar .contextual-links-region {
+  display: inline;
+}
 
 /**
  * Blocks.
